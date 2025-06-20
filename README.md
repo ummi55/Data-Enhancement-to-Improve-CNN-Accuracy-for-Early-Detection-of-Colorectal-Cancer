@@ -1,1 +1,2 @@
 # Data-Enhancement-to-Improve-CNN-Accuracy-for-Early-Detection-of-Colorectal-Cancer
+## APENDIK
