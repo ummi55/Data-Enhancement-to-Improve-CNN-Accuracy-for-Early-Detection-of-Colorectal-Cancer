@@ -3,6 +3,7 @@
 ***
 
 ## 1. Model Performance Comparison Using VGG 16 
+
 ![image](https://github.com/user-attachments/assets/ed0958bd-17fa-4450-9894-ef8584d42b99)
 ***
 *Table 1.Comparison with various methods using an enhanced dataset*
@@ -24,6 +25,8 @@
 
 ***
 ##The results of modeling using the Convolutional Neural Network (CNN) method : 
+
 ![image](https://github.com/user-attachments/assets/b8fe8706-3a96-4c75-b819-27e80c0ee2e4)
+Training and Validation Accuracy Graph; Training and Validation Loss in the Enhanced Dataset
 
 
