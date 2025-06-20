@@ -54,6 +54,24 @@ ROC Curve for Multi-Class from Enhanced Dataset
 
 Evaluation Matrix of the Enhanced Dataset Models
 
+***
+## The results of modeling using Resnet50 method : 
+
+![image](https://github.com/user-attachments/assets/3cbc9df0-5fff-439d-b2a8-4342dac01acd)
+
+Training and Validation Accuracy Graph; Training and Validation Loss in the Enhanced Dataset
+
+![image](https://github.com/user-attachments/assets/d6cac0d2-10a4-44fc-b65a-f0ac5d31031d)
+
+ROC Curve for Multi-Class from Enhanced Dataset
+
+![image](https://github.com/user-attachments/assets/0f1be15a-9b20-42e7-94f9-89e8836b2fc6)
+
+Evaluation Matrix of the Enhanced Dataset Models
+
+
+
+
 
 
 
