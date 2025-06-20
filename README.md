@@ -24,5 +24,6 @@
 
 ***
 ##The results of modeling using the Convolutional Neural Network (CNN) method : 
+![image](https://github.com/user-attachments/assets/b8fe8706-3a96-4c75-b819-27e80c0ee2e4)
 
 
