@@ -2,7 +2,7 @@
 ## APENDIK
 ***
 
-## 1. Model Performance Comparison Using VGG 16 
+## 1. Model Performance Comparison Using VGG 16
 
 ![image](https://github.com/user-attachments/assets/ed0958bd-17fa-4450-9894-ef8584d42b99)
 ***
@@ -24,7 +24,8 @@
 |                       | Cancer  | 0.94   | 0.93   |     0.89     |   0.76     | 
 
 ***
-##The results of modeling using the Convolutional Neural Network (CNN) method : 
+
+## The results of modeling using the Convolutional Neural Network (CNN) method : 
 
 ![image](https://github.com/user-attachments/assets/b8fe8706-3a96-4c75-b819-27e80c0ee2e4)
 
@@ -39,7 +40,22 @@ ROC Curve for Multi-Class from Enhanced Dataset
 Evaluation Matrix of the Enhanced Dataset Models
 
 ***
-##The results of modeling using the MobileNetV2 method : 
+## The results of modeling using the MobileNetV2 method : 
+
+![image](https://github.com/user-attachments/assets/051e6f50-08f1-4fd3-bdaf-701e06862ba1)
+
+Training and Validation Accuracy Graph; Training and Validation Loss in the Enhanced Dataset
+
+![image](https://github.com/user-attachments/assets/60059919-cd85-4aa7-8095-40720ce87f73)
+
+ROC Curve for Multi-Class from Enhanced Dataset
+
+![image](https://github.com/user-attachments/assets/9c20679d-365b-4493-a4e3-4e30452609bc)
+
+Evaluation Matrix of the Enhanced Dataset Models
+
+
+
 
 
 
