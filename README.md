@@ -30,4 +30,14 @@
 
 Training and Validation Accuracy Graph; Training and Validation Loss in the Enhanced Dataset
 
+![image](https://github.com/user-attachments/assets/b7530c41-c939-4d27-a2b3-3d9fe4c13f13)
+
+ROC Curve for Multi-Class from Enhanced Dataset
+
+![image](https://github.com/user-attachments/assets/f0a6500c-d0fa-4c51-a1c3-e73d8fb69711)
+
+Evaluation Matrix of the Enhanced Dataset Models
+
+
+
 
