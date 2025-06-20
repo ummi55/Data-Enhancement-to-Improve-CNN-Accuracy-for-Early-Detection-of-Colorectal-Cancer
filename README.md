@@ -22,20 +22,7 @@
 |                       | Polyp   | 0.99   | 0.99   |     0.79     |   0.57     | 
 |                       | Cancer  | 0.94   | 0.93   |     0.89     |   0.76     | 
 
-
-0.49
-0.52
-0.41
-0.62
-0.48
-0.54
-0.47
-0.5
-0.46
-0.53
-0.72
-0.57
-0.76
-
+***
+##The results of modeling using the Convolutional Neural Network (CNN) method : 
 
 
