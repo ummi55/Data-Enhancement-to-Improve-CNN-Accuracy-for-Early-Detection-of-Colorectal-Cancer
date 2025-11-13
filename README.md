@@ -1,12 +1,12 @@
 # Data-Enhancement-to-Improve-CNN-Accuracy-for-Early-Detection-of-Colorectal-Cancer
-## APENDIK
+## APPENDIX
 ***
 
 ## 1. Model Performance Comparison Using VGG 16
 
 ![image](https://github.com/user-attachments/assets/ed0958bd-17fa-4450-9894-ef8584d42b99)
 ***
-*Table 1.Comparison with various methods using an enhanced dataset*
+*Table 1. Comparison With Various Methods Using an Enhanced Dataset*
 | Metric                | Class   | VGG 16 | CNN    | MobileNetV2  | Resnet50   | 
 |-----------------------|---------|--------|--------|--------------|------------|
 | Accuracy              |         | 0.86   | 0.84   |     0.78     |   0.49     | 
@@ -60,6 +60,9 @@ Evaluation Matrix of the Enhanced Dataset Models
 ![image](https://github.com/user-attachments/assets/3cbc9df0-5fff-439d-b2a8-4342dac01acd)
 
 Training and Validation Accuracy Graph; Training and Validation Loss in the Enhanced Dataset
+
+
+
 
 ![image](https://github.com/user-attachments/assets/d6cac0d2-10a4-44fc-b65a-f0ac5d31031d)
 
